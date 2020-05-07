@@ -439,6 +439,9 @@ button {
     padding: 40px 45px;
 }
 
+
+
+
 .modal-dialog-auth {
     width: auto;
     position: relative;
@@ -836,5 +839,14 @@ button {
 
     .footer-link:not(:last-child) {
         margin-right: 0;
+    }
+
+    .modal-dialog {
+        padding: 20px 25px;
+    }
+
+    .close-auth {
+        top: 0px;
+        right: 20px;
     }
 }
